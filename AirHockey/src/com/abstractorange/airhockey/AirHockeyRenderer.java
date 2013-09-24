@@ -31,7 +31,7 @@ import com.abstractorange.airhockey.android.util.Geometry.Sphere;
 import com.abstractorange.airhockey.android.util.Geometry.Vector;
 import com.abstractorange.airhockey.android.util.MatrixHelper;
 import com.abstractorange.airhockey.android.util.TextureHelper;
-import com.abstractorange.airhockey1.R;
+import com.abstractorange.airhockey.R;
 
 
 public class AirHockeyRenderer implements Renderer {

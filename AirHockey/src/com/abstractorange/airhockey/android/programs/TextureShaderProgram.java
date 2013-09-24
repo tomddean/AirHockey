@@ -10,7 +10,7 @@ import static android.opengl.GLES20.glUniform1i;
 import static android.opengl.GLES20.glUniformMatrix4fv;
 import android.content.Context;
 
-import com.abstractorange.airhockey1.R;
+import com.abstractorange.airhockey.R;
 
 public class TextureShaderProgram extends ShaderProgram {
 	private final int uMatrixLocation;

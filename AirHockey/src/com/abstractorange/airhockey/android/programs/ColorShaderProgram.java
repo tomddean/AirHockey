@@ -2,7 +2,7 @@ package com.abstractorange.airhockey.android.programs;
 
 import static android.opengl.GLES20.*;
 
-import com.abstractorange.airhockey1.R;
+import com.abstractorange.airhockey.R;
 
 import android.content.Context;
 
